@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_H4vegKDzEeyxgaf_ROUS8g" name="uniquecodehc" dataPackage="_H4vegaDzEeyxgaf_ROUS8g" Server="Localhost 127.0.0.1" FilePath="C:/Users/bhavmishra/Desktop/majorAssignmentTrack3/successcode/uniquecodehc.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_H4vegaDzEeyxgaf_ROUS8g" name="default" dataManager="_H4vegKDzEeyxgaf_ROUS8g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_H4vegqDzEeyxgaf_ROUS8g" id="_3h-rcKDyEeyxgaf_ROUS8g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4veg6DzEeyxgaf_ROUS8g" label="Region" length="33" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vehKDzEeyxgaf_ROUS8g" label="Country" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vehaDzEeyxgaf_ROUS8g" label="Item_Type" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vehqDzEeyxgaf_ROUS8g" label="Sales_Channel" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4veh6DzEeyxgaf_ROUS8g" label="Order_Priority" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4veiKDzEeyxgaf_ROUS8g" label="Order_Date" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4veiaDzEeyxgaf_ROUS8g" label="Order_ID" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4veiqDzEeyxgaf_ROUS8g" label="Ship_Date" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vei6DzEeyxgaf_ROUS8g" label="Units_Sold" length="-1" talendType="id_Date" pattern="&quot;dd/MM/yy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vejKDzEeyxgaf_ROUS8g" label="Unit_Price" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vejaDzEeyxgaf_ROUS8g" label="Unit_Cost" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vejqDzEeyxgaf_ROUS8g" label="Name" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_H4vej6DzEeyxgaf_ROUS8g" label="UniqueCode" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

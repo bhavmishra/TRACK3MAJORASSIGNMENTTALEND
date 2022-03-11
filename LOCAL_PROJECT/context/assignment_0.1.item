@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_FMzeMJ-qEeyusY__HITKaQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_FMzeMZ-qEeyusY__HITKaQ" comment="" name="salesdata" prompt="salesdata?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_4intwJ-tEeyusY__HITKaQ" comment="" name="filterfile" prompt="filterfile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_4intwZ-tEeyusY__HITKaQ" comment="" name="rejectfile" prompt="rejectfile?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_u2a_IJ-2EeyusY__HITKaQ" comment="" name="comonid" prompt="comonid?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_pTlvEJ--EeyusY__HITKaQ" comment="" name="rejectedlookup" prompt="rejectedlookup?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_EwlDIZ_UEeyusY__HITKaQ" comment="" name="transform2" prompt="transform2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_9vy_AKA2EeymCuIGux-I0A" comment="" name="transformD1" prompt="transformD1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_9vy_AaA2EeymCuIGux-I0A" comment="" name="transformD2" prompt="transformD2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Br8cwKA9EeymCuIGux-I0A" comment="" name="temptransform" prompt="temptransform?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_FNc_MKA-EeymCuIGux-I0A" comment="" name="finaltransform" prompt="finaltransform?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qLZcwKCuEeyxgaf_ROUS8g" comment="" name="finalukrainehc" prompt="finalukrainehc?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_qLZcwaCuEeyxgaf_ROUS8g" comment="" name="finalukraineml" prompt="finalukraineml?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Q2SsgKDsEeyxgaf_ROUS8g" comment="" name="transformhc1" prompt="transformhc1?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Q2SsgaDsEeyxgaf_ROUS8g" comment="" name="transformhc2" prompt="transformhc2?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_Q2SsgqDsEeyxgaf_ROUS8g" comment="" name="temphctransform" prompt="temphctransform?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_T0fGgKDtEeyxgaf_ROUS8g" comment="" name="finalhctransform" prompt="finalhctransform?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rYc-wKD7Eeyxgaf_ROUS8g" comment="" name="mergetemp" prompt="mergetemp?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_rYc-waD7Eeyxgaf_ROUS8g" comment="" name="appendandmerge" prompt="appendandmerge?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
